@@ -1,6 +1,6 @@
 # Notas:
 
-My first node app, it creates a .txt with a multiplication table
+My first node app, creates a multiplication table in .txt format
 
 ```
 Options:
