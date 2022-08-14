@@ -1,7 +1,20 @@
-# Notas:
+# README:
 
 My first node app, creates a multiplication table in .txt format
 
+##Starting with the app
+
+Before you start workin with this app you need to install all dependencies: 
+
+      npm i or npm install
+      
+After installing all dependencies you only need to run the next command:
+
+      node app.js
+      
+Now you're ready to start working with the app
+
+##Options
 ```
 Options:
       --help     Show help                                             [boolean]
