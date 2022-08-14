@@ -2,7 +2,7 @@
 
 My first node app, creates a multiplication table in .txt format
 
-##Starting with the app
+## Starting with the app
 
 Before you start workin with this app you need to install all dependencies: 
 
@@ -14,7 +14,7 @@ After installing all dependencies you only need to run the next command:
       
 Now you're ready to start working with the app
 
-##Options
+## Options
 ```
 Options:
       --help     Show help                                             [boolean]
